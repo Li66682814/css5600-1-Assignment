@@ -9,8 +9,7 @@ css5600-1-Assignment/
 ├── docs/
 │   ├── Assignment.docx
 │   ├── project-structure.md
-│   ├── project-structure_ZH.md
-│   └── readme-header.svg
+│   └── project-structure_ZH.md
 ├── Question1/
 │   ├── question1.py
 │   └── Question1.csv
