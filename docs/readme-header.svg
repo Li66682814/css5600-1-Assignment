@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="176" viewBox="0 0 1100 176">
+  <title>CSS5600 Assignment</title>
+  <desc>Putra University of Malaysia and Advanced Machine Learning</desc>
+  <rect x="1" y="1" width="1098" height="174" rx="16" fill="#f8fafc" stroke="#e2e8f0"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="550" y="72" fill="#0f172a" font-size="48" font-weight="700">CSS5600 Assignment</text>
+    <rect x="198" y="101" width="343" height="44" rx="8" fill="#9b1b30"/>
+    <rect x="559" y="101" width="343" height="44" rx="8" fill="#1d4ed8"/>
+    <g fill="#ffffff" font-size="23" font-weight="600">
+      <text x="369.5" y="131">Putra University of Malaysia</text>
+      <text x="730.5" y="131">Advanced Machine Learning</text>
+    </g>
+  </g>
+</svg>
