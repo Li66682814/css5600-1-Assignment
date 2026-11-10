@@ -32,3 +32,7 @@ python -m pip install -r requirements.txt
 python Question1/question1.py
 python Question2/question2.py
 ```
+
+## 致谢
+
+OpenAI Codex 协助了本项目

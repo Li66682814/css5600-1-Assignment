@@ -35,3 +35,7 @@ Run these commands from the repository root.
 python Question1/question1.py
 python Question2/question2.py
 ```
+
+## Acknowledgments
+
+OpenAI Codex assisted with this project.
