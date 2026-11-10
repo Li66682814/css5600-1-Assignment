@@ -1,0 +1,17 @@
+Symptoms,BodyTemp,Vaccinated,LockdownStatus,GoingOut
+Cough,Normal,False,Full,Yes
+Fever,Mild,True,Free,Yes
+Fever,High,False,Free,No
+Cough,Mild,True,Free,Yes
+Cough,Normal,True,Free,Yes
+SoreThroat,Normal,True,Free,Yes
+Fever,High,True,Free,Yes
+SoreThroat,High,False,Free,No
+Fever,Mild,True,Partial,No
+SoreThroat,High,True,Free,No
+Cough,Normal,True,Full,No
+SoreThroat,High,True,Free,Yes
+Cough,High,False,Full,No
+Cough,High,False,Partial,No
+SoreThroat,Mild,True,Partial,Yes
+SoreThroat,Normal,False,Partial,

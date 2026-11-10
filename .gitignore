@@ -1,0 +1,26 @@
+# Python 缓存与本地环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# IDE 配置与系统临时文件
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+~$*.docx
+.~lock.*#
+
+# 带个人信息封面的作业副本
+/AssignmentWithTitle.docx
+
+# 课程发放的课件与题目 PDF
+**/Topic *.pptx
+/Assignment 1 - Bayes and DT Learning.pdf
+
+# Question 2 可通过脚本重新下载的数据缓存
+/Question2/Question2Data/telco-customer-churn.zip
+/Question2/Question2Data/WA_Fn-UseC_-Telco-Customer-Churn.csv
