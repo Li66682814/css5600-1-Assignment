@@ -11,8 +11,10 @@ Question 1 使用朴素贝叶斯和高斯朴素贝叶斯预测给定数据
 Question 2 用决策树预测电信客户是否流失，并评估模型与主要分裂特征
 
 ## 项目结构
-Question 1 和 Question 2包含实验全部文件  
-作业、目录树、文件用途说明和数据来源见 [项目结构说明](docs/project-structure_ZH.md)。
+
+作业报告提供 [PDF 版](docs/Assignment.pdf)和 [Word 版](docs/Assignment.docx)
+
+目录树、文件用途和数据来源见 [项目结构说明](docs/project-structure_ZH.md)
 
 ## 安装依赖
 项目使用 Python 3.12

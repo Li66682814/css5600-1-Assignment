@@ -13,7 +13,9 @@ This Advanced Machine Learning assignment covers Weeks 4 and 5 and contains two 
 
 ## Project structure
 
-See the [project structure guide](docs/project-structure.md) for the report location, directory tree, file descriptions, and data source.
+The assignment report is available as a [PDF](docs/Assignment.pdf) and a [Word document](docs/Assignment.docx).
+
+See the [project structure guide](docs/project-structure.md) for the directory tree, file descriptions, and data source.
 
 ## Install dependencies
 

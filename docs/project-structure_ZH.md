@@ -8,6 +8,7 @@ css5600-1-Assignment/
 ├── .gitignore
 ├── docs/
 │   ├── Assignment.docx
+│   ├── Assignment.pdf
 │   ├── project-structure.md
 │   └── project-structure_ZH.md
 ├── Question1/
@@ -23,7 +24,8 @@ css5600-1-Assignment/
 
 | 文件 | 用途 |
 | --- | --- |
-| `Assignment.docx` | 作业报告，包含 Question 1 的计算过程和 Question 2 的模型评估与讨论 |
+| [Assignment.docx](Assignment.docx) | 可编辑的作业报告，包含 Question 1 的计算过程和 Question 2 的模型评估与讨论 |
+| [Assignment.pdf](Assignment.pdf) | 作业报告的 PDF 版 |
 | `question1.py` | Question 1 的朴素贝叶斯和高斯朴素贝叶斯实验脚本 |
 | `Question1.csv` | Question 1 的实验数据 |
 | `question2.py` | Question 2 的数据准备、预测和评估脚本 |

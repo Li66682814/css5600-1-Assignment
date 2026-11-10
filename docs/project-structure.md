@@ -8,6 +8,7 @@ css5600-1-Assignment/
 ├── .gitignore
 ├── docs/
 │   ├── Assignment.docx
+│   ├── Assignment.pdf
 │   ├── project-structure.md
 │   └── project-structure_ZH.md
 ├── Question1/
@@ -23,7 +24,8 @@ css5600-1-Assignment/
 
 | File | Purpose |
 | --- | --- |
-| `Assignment.docx` | Assignment report containing the Question 1 calculations and the Question 2 model evaluation and discussion |
+| [Assignment.docx](Assignment.docx) | Editable assignment report with the Question 1 calculations and the Question 2 model evaluation and discussion |
+| [Assignment.pdf](Assignment.pdf) | PDF copy of the assignment report |
 | `question1.py` | Naive Bayes and Gaussian Naive Bayes experiment for Question 1 |
 | `Question1.csv` | Input data for Question 1 |
 | `question2.py` | Data preparation, prediction, and evaluation for Question 2 |
